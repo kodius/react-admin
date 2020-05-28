@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { FC } from 'react';
 import PropTypes from 'prop-types';
-import DashboardIcon from '@material-ui/icons/Dashboard';
+import DashboardIcon from '@material-ui/icons/Home';
 import { useTranslate } from 'ra-core';
 
 import MenuItemLink from './MenuItemLink';

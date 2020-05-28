@@ -36,7 +36,7 @@ const englishMessages: TranslationMessages = {
         },
         page: {
             create: 'Create %{name}',
-            dashboard: 'Dashboard',
+            dashboard: 'Home',
             edit: '%{name} #%{id}',
             error: 'Something went wrong',
             list: '%{name}',
